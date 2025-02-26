@@ -50,6 +50,3 @@ Atau, Anda dapat mengunduhnya secara manual melalui Zenodo dengan mengklik tauta
 ✅ Coba jalankan kembali skrip `download.py`. Jika masih gagal, unduh dataset secara manual melalui Zenodo dan simpan di folder `data/`.
 
 ---
-
-## 🚀 Selamat Mengembangkan!
-
