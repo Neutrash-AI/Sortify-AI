@@ -1,4 +1,4 @@
-# 📦 Sortify-AI - 
+# 📦 Sortify-AI
 
 🚀 **Sortify-AI** adalah modul yang digunakan untuk mengunduh, mengelola, dan memproses dataset gambar untuk deteksi sampah otomatis. Proyek ini memanfaatkan anotasi dataset untuk model klasifikasi dan segmentasi sampah.
 
